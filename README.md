@@ -16,3 +16,11 @@ then it will be starting frontend in the local host
 
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4ff0372-c4c5-4315-a340-320744ba364a" />
 
+
+
+
+
+add options as 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66e4c64a-9c56-4af8-a424-18cf64f8d126" />
+
